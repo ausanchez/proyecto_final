@@ -419,7 +419,7 @@ footer{
     height: 4rem;
   }
   .descrip__title {
-    font-size: 1.7rem;
+    font-size: 1.4rem;
   }
   .descrip__explication {
     width: 100%;
@@ -482,4 +482,12 @@ footer{
   .grid__item:nth-child(11) {
     grid-column-start: span 1;
   }
+
+/**** H O J A   C O N T A C T O ****/
+.form__box {
+  width: 20rem;
+  margin: 3rem auto;
+}
+
+
 }
